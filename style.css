@@ -94,13 +94,13 @@ span{
 
 
 footer{
-  background:#333;
+  background:#333!important;
 }
 
 footer a{
-  text-decoration:none;
-  list-style-type:none;
-  color:#33CC33;
+  text-decoration:none!important;
+  list-style-type:none!important;
+  color:#33CC33!important;
 }
 
 
